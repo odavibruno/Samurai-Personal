@@ -1,0 +1,7 @@
+{
+  "name": "Warllley Samurai Personal",
+  "description": "Aplicativo oficial de treinamento personalizado Warllley Samurai. Gestão de treinos, saúde e performance.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
